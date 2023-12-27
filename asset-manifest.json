@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/coderearth/static/css/main.f855e6bc.css",
+    "main.js": "/coderearth/static/js/main.353fd913.js",
+    "static/js/787.680dd463.chunk.js": "/coderearth/static/js/787.680dd463.chunk.js",
+    "index.html": "/coderearth/index.html",
+    "main.f855e6bc.css.map": "/coderearth/static/css/main.f855e6bc.css.map",
+    "main.353fd913.js.map": "/coderearth/static/js/main.353fd913.js.map",
+    "787.680dd463.chunk.js.map": "/coderearth/static/js/787.680dd463.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.353fd913.js"
+  ]
+}
